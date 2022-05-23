@@ -1,2 +1,2 @@
 # DotnetSolid
-A repository containing SOLID examples implemented in C#
+A repository containing practical examples of SOLID design implemented in C#
